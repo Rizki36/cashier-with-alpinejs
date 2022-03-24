@@ -1,3 +1,3 @@
 # Simple Kasir
 
-Dibuat dengan alpinejs
+Create with alpinejs
